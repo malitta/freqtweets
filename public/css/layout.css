@@ -1,0 +1,22 @@
+.page-header p.lead{
+	color: #666;
+	font-size: 18px;
+}
+
+.loader{
+	display: none;
+}
+
+.results{
+	display: none;
+}
+
+.results h4 em{
+	float: right;
+    font-style: normal;
+    margin-top: 4px;
+}
+
+.alert.error{
+	display: none;
+}
